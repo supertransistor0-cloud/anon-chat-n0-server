@@ -1,1 +1,2 @@
-# anon-chat-n0-server
+# AnonChat Server
+Сервер для отслеживания обьёма и токенов
